@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻still studying
+💻still learning
 
 
 # 💻 Tech Stack:
